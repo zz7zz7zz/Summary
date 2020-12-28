@@ -188,3 +188,23 @@ https://www.cnblogs.com/shaer/p/10493241.html
 https://blog.51cto.com/14150615/2356945
 
 http://www.docway.net/project/2zCaQLeelt/2za1gbYASS
+
+10.YoutubeH5播放器问题 
+
+1.硬件加速 
+
+2.主线程读资源 
+
+4.js定时器 
+
+5.内存泄漏
+
+6.释放方法不对（参照X5WebView）
+
+7.动画问题
+
+8.实现方式变更：1.使用原生 2.使用Exoplayer 播放youtube
+
+9.iframe重用
+
+
