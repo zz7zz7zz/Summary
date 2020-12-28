@@ -136,5 +136,42 @@ arpu
 
 Ltv 生命周期，用户在生命周期内为某游戏创造的收入总计
 
+8.机器人研究
+国内：
 
+图灵机器人：http://www.turingapi.com/
+小i:http://www.xiaoi.com/
+网易：https://dev.yunxin.163.com/docs/product/IM%E5%8D%B3%E6%97%B6%E9%80%9A%E8%AE%AF/SDK%E5%BC%80%E5%8F%91%E9%9B%86%E6%88%90/Android%E5%BC%80%E5%8F%91%E9%9B%86%E6%88%90/%E6%99%BA%E8%83%BD%E5%AF%B9%E8%AF%9D%E6%9C%BA%E5%99%A8%E4%BA%BA
+
+
+
+https://baijiahao.baidu.com/s?id=1593060935469368681&wfr=spider&for=pc
+
+https://ai.51cto.com/art/201907/599973.htm
+
+
+使用 ChatterBot构建聊天机器人
+https://www.biaodianfu.com/chatterbot.html
+
+聊天机器人API对比分析
+https://www.zybuluo.com/liuhui0803/note/1134605
+
+
+文档：
+聊天机器人（Chatbot）开发：正确指南
+http://www.mycomm.cn/show-list-566.html
+
+https://baijiahao.baidu.com/s?id=1591544608475128000&wfr=spider&for=pc
+
+如何制作一个聊天机器人：
+https://www.zhihu.com/question/28283196/answer/733910696
+
+
+现成：
+
+微软，收费
+
+谷歌：Dialogflow 收费 https://cloud.google.com/dialogflow/pricing
+
+开源，机器学习，免费
 
