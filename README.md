@@ -207,4 +207,14 @@ http://www.docway.net/project/2zCaQLeelt/2za1gbYASS
 
 9.iframe重用
 
+11.好的编码习惯，请举例
+ 开发一个页面Activity时：
+ 1.Actity的实现方法形成模板
+ 2.开发完成后，使用am命令测试Activity的稳定性/健壮性
+ 3.查看其状态保存方法是否实现
+ 4.Money测试
+ 5.查看其内存泄露
+ 6.功能完成后需要其它同事参与审核
+
+
 
