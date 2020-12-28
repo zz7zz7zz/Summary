@@ -24,3 +24,20 @@ https://blog.csdn.net/zhangping2015/article/details/72265015
 https://www.e-learn.cn/content/qita/777757
 
 阻塞socket->非阻塞socket(nio实现)
+
+3.Android App Bundle 文档:
+
+1. https://developer.android.com/platform/technology/app-bundle
+
+   2.https://developer.android.com/guide/app-bundle/
+
+  3.https://developer.android.com/studio/publish/app-signing#sign-apk
+
+   4.https://developer.android.com/topic/performance/reduce-apk-size
+
+   5.https://developer.android.com/studio/command-line/bundletool
+
+   6.https://support.google.com/googleplay/android-developer/answer/113469?hl=zh-Hans&ref_topic=7072031
+
+
+
