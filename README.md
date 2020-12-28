@@ -25,7 +25,7 @@ https://www.e-learn.cn/content/qita/777757
 
 阻塞socket->非阻塞socket(nio实现)
 
-3.Android App Bundle 文档:
+3.Android App Bundle 文档
 
 1. https://developer.android.com/platform/technology/app-bundle
 
